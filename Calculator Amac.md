@@ -14,7 +14,7 @@ Bu tür bir uygulama, Flutter gibi UI (Kullanıcı Arayüzü) geliştirme kütü
 veya geliştirmek isteyen kişilere yönelik bir egzersiz veya öğrenme sürecinin bir parçası olarak yazılabilir.
 Ayrıca, temel matematiksel işlemleri programlamak, kullanıcı girişini işlemek ve temel UI tasarımı yapmak gibi becerilerin pekiştirilmesi açısından da yararlı olabilir.
 
-Görseldeki setState'ler kullandığım Statelerdir.
+**Görseldeki setState'ler kullandığım Statelerdir.**
 
 ![Ekran görüntüsü 2024-01-30 023801](https://github.com/Topkir/Calculator/assets/63725705/c7953f00-7264-432b-a54a-b763d8c99b7a)
 
