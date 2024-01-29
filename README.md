@@ -1,7 +1,5 @@
 
-![Ekran görüntüsü 2024-01-30 024505](https://github.com/Topkir/Calculator/assets/63725705/71fb8539-0ffa-4846-a8cf-4d784d1621c6)
-
-**Uygulamanın temel özellikleri**:
+![Ekran görüntüsü 2024-01-30 024505](https://github.com/Topkir/Calculator/assets/63725705/71fb8539-0ffa-4846-a8cf-4d784d1621c6)            **Uygulamanın temel özellikleri**:
 
 **Görüntüleme**: Hesap makinesinin mevcut durumunu ve hesaplama sonuçlarını göstermek için büyük bir ekran kullanır.
 
